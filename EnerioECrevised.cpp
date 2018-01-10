@@ -1,4 +1,4 @@
-//EnerioEC.cpp - E.Enerio Extra Credit
+//Edison Enerio
 //Sailing the Seas (Function/Array)
 
 #include <iostream>

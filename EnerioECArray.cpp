@@ -1,4 +1,4 @@
-//EnerioEC.cpp - E.Enerio - Extra Credit.
+//Edison Enerio
 //Array Manipulation
 
 #include <iostream>;

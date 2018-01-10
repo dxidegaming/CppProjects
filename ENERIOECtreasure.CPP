@@ -1,4 +1,5 @@
-//EnerioEC.cpp - E.Enerio Extra Credit.
+//Edison Enerio
+//Treasure Map
 
 #include <iostream>
 using namespace std;
